@@ -6,7 +6,7 @@
 ### 🔗 Links
 - 🌐 Portfolio: https://chaluska4.github.io
 - 💼 LinkedIn: https://www.linkedin.com/in/colin-haluska-05b6812b2/
-- 
+
 ### 🛠 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
