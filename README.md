@@ -23,5 +23,4 @@
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### 📊 GitHub Stats
-![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaluska4&show_icons=true&theme=dark&count_private=true)
+
