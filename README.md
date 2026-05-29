@@ -24,4 +24,4 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### 📊 GitHub Stats
-![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaluska4&show_icons=true&theme=dark)
+![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaluska4&show_icons=true&theme=dark&count_private=true)
