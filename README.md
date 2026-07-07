@@ -28,8 +28,6 @@
 
 ---
 
----
-
 # 🎯 Mission Control
 
 I’m a Finance & Business Administration student at Muhlenberg College and an Annuity Operations Intern at SFG Annuity Advisors.
