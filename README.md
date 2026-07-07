@@ -1,8 +1,10 @@
 <div align="center">
 
-# Colin Haluska
+<img src="./banner.svg" alt="Colin Haluska GitHub Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+financial+software;Automating+enterprise+workflows;Developing+production-ready+applications;Turning+finance+problems+into+software" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Turning+finance+problems+into+software;Building+financial+workflow+automation;Developing+production-ready+applications;Engineering+investment+systems" />
 
 <br>
 
@@ -15,24 +17,22 @@
 <a href="https://www.linkedin.com/in/colin-haluska-05b6812b2/">
 <img src="https://img.shields.io/badge/LinkedIn-Colin_Haluska-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:jackhaluska@proton.me">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://colinhaluska.com">
 <img src="https://img.shields.io/badge/Portfolio-colinhaluska.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
 <a href="https://colinhaluskainvestments.com">
 <img src="https://img.shields.io/badge/Trading_Platform-Live_App-16A34A?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 </a>
-
 <a href="https://github.com/chaluska4">
 <img src="https://img.shields.io/badge/GitHub-chaluska4-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
+---
 
 ---
 
