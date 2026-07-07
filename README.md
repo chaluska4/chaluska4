@@ -6,12 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Turning+finance+problems+into+software;Building+financial+workflow+automation;Developing+production-ready+applications;Engineering+investment+systems" />
 
-<br>
-
-<img src="https://img.shields.io/badge/Full--Stack_Developer-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FinTech_Developer-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Enterprise_Automation-16A34A?style=for-the-badge" />
-
 <br><br>
 
 <a href="https://www.linkedin.com/in/colin-haluska-05b6812b2/">
