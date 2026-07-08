@@ -179,19 +179,14 @@ Autonomous finance dashboard currently in development.
 
 ---
 
-# 📊 GitHub Telemetry
-
 <p align="center">
-  <a href="https://github.com/chaluska4">
-    <img src="https://komarev.com/ghpvc/?username=chaluska4&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/chaluska4?tab=repositories">
-    <img src="https://img.shields.io/badge/Public_Repos-View_on_GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=chaluska4&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=chaluska4&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  GitHub activity and contribution history are available directly on my profile.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaluska4&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
