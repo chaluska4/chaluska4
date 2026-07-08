@@ -190,28 +190,29 @@ Autonomous finance dashboard currently in development.
 </p>
 
 ---
-# 🤝 Connect
+
+## 🤝 Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/colin-haluska-05b6812b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Colin_Haluska-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://https://www.linkedin.com/in/colin-haluska-05b6812b2/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="mailto:jackhaluska@proton.me">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:chaluska@muhlenberg.edu">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://colinhaluska.com">
+    <img src="https://img.shields.io/badge/Portfolio-colinhaluska.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 
-<a href="https://colinhaluska.com">
-<img src="https://img.shields.io/badge/Portfolio-colinhaluska.com-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+  <a href="https://colinhaluskainvestments.com">
+    <img src="https://img.shields.io/badge/Trading_Platform-Live_App-16A34A?style=for-the-badge"/>
+  </a>
 
-<a href="https://colinhaluskainvestments.com">
-<img src="https://img.shields.io/badge/Trading_Platform-Live_App-0A84FF?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-</a>
-
-<a href="https://github.com/chaluska4">
-<img src="https://img.shields.io/badge/GitHub-chaluska4-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/chaluska4">
+    <img src="https://img.shields.io/badge/GitHub-chaluska4-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:7c3aed,100:0f172a&height=120&section=footer"/>
